@@ -10,6 +10,7 @@
 <li><a href="#sec-1-1-2">1.1.2. Build trust and frienship first, before trying to sell</a></li>
 <li><a href="#sec-1-1-3">1.1.3. Show, don’t tell.</a></li>
 <li><a href="#sec-1-1-4">1.1.4. Remarkability is the key. Nobody can or should sell garbage</a></li>
+<li><a href="#sec-1-1-5">1.1.5. The most powerful marketing is personal recommendation. And it usually happen offline</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-2">1.2. Concepts</a>
@@ -65,6 +66,8 @@ Similar Projects:
 ### Show, don’t tell.<a id="sec-1-1-3" name="sec-1-1-3">[]</a>
 
 ### Remarkability is the key. Nobody can or should sell garbage<a id="sec-1-1-4" name="sec-1-1-4">[]</a>
+
+### The most powerful marketing is personal recommendation. And it usually happen offline<a id="sec-1-1-5" name="sec-1-1-5">[]</a>
 
 ## Concepts<a id="sec-1-2" name="sec-1-2">[]</a>
 
