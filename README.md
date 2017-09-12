@@ -12,7 +12,7 @@
 <li><a href="#sec-1-1-4">1.1.4. Remarkability is the key. Nobody can or should sell garbage</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-2">1.2. Lesson learned</a>
+<li><a href="#sec-1-2">1.2. Lessons learned</a>
 <ul>
 <li><a href="#sec-1-2-1">1.2.1. Don’t forget the silent majority</a></li>
 <li><a href="#sec-1-2-2">1.2.2. The most powerful marketing is personal recommendation. And it usually happen offline</a></li>
@@ -27,12 +27,12 @@
 <li><a href="#sec-1-3-4">1.3.4. Trigger</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-4">1.4. Routine tasks</a>
+<li><a href="#sec-1-4">1.4. Routine Tasks</a>
 <ul>
 <li><a href="#sec-1-4-1">1.4.1. Collect surprising facts</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-5">1.5. Different forms of technical selling</a>
+<li><a href="#sec-1-5">1.5. Different Products To Sell</a>
 <ul>
 <li><a href="#sec-1-5-1">1.5.1. Each blog post is a product: journalism + advertising</a></li>
 <li><a href="#sec-1-5-2">1.5.2. Product review/Sponsored posts</a></li>
@@ -75,7 +75,7 @@ Similar Projects:
 
 ### Remarkability is the key. Nobody can or should sell garbage<a id="sec-1-1-4" name="sec-1-1-4">[]</a>
 
-## Lesson learned<a id="sec-1-2" name="sec-1-2">[]</a>
+## Lessons learned<a id="sec-1-2" name="sec-1-2">[]</a>
 
 ### Don’t forget the silent majority<a id="sec-1-2-1" name="sec-1-2-1">[]</a>
 
@@ -121,13 +121,13 @@ It won't work. And it will hurt your image. Make your products looks crappy.
 -   Social currency gets people talking. But triggers keep them talking.
 -   Top of mind means tip of tongue
 
-## Routine tasks<a id="sec-1-4" name="sec-1-4">[]</a>
+## Routine Tasks<a id="sec-1-4" name="sec-1-4">[]</a>
 
 ### Collect surprising facts<a id="sec-1-4-1" name="sec-1-4-1">[]</a>
 
 -   Sample: average person spends two weeks over his/her lifetime waiting for traffic lights to change
 
-## Different forms of technical selling<a id="sec-1-5" name="sec-1-5">[]</a>
+## Different Products To Sell<a id="sec-1-5" name="sec-1-5">[]</a>
 
 ### Each blog post is a product: journalism + advertising<a id="sec-1-5-1" name="sec-1-5-1">[]</a>
 
