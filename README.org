@@ -5,8 +5,10 @@
 * Do a better technical selling as a developer
 Github Repo: https://github.com/DennyZhang/developer-technical-selling
 ** Principle
+*** Don't post your links everywhere. Stop it now!
+It won't work. And it will hurt your image. Make your products looks crappy.
 *** Show, don’t tell.
-*** Build trust and frienship first, before starting to sell
+*** Build trust and frienship first, before trying to sell
 *** Don't sell products I personaly have no faith
 - Advertising is only evil when it advertises evil things
 ** Routine tasks

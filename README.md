@@ -6,9 +6,10 @@
 <ul>
 <li><a href="#sec-1-1">1.1. Principle</a>
 <ul>
-<li><a href="#sec-1-1-1">1.1.1. Show, don’t tell.</a></li>
-<li><a href="#sec-1-1-2">1.1.2. Build trust and frienship first, before starting to sell</a></li>
-<li><a href="#sec-1-1-3">1.1.3. Don't sell products I personaly have no faith</a></li>
+<li><a href="#sec-1-1-1">1.1.1. Don't post your links everywhere. Stop it now!</a></li>
+<li><a href="#sec-1-1-2">1.1.2. Show, don’t tell.</a></li>
+<li><a href="#sec-1-1-3">1.1.3. Build trust and frienship first, before trying to sell</a></li>
+<li><a href="#sec-1-1-4">1.1.4. Don't sell products I personaly have no faith</a></li>
 </ul>
 </li>
 <li><a href="#sec-1-2">1.2. Routine tasks</a></li>
@@ -30,11 +31,15 @@ Github Repo: <https://github.com/DennyZhang/developer-technical-selling>
 
 ## Principle<a id="sec-1-1" name="sec-1-1">[]</a>
 
-### Show, don’t tell.<a id="sec-1-1-1" name="sec-1-1-1">[]</a>
+### Don't post your links everywhere. Stop it now!<a id="sec-1-1-1" name="sec-1-1-1">[]</a>
 
-### Build trust and frienship first, before starting to sell<a id="sec-1-1-2" name="sec-1-1-2">[]</a>
+It won't work. And it will hurt your image. Make your products looks crappy.  
 
-### Don't sell products I personaly have no faith<a id="sec-1-1-3" name="sec-1-1-3">[]</a>
+### Show, don’t tell.<a id="sec-1-1-2" name="sec-1-1-2">[]</a>
+
+### Build trust and frienship first, before trying to sell<a id="sec-1-1-3" name="sec-1-1-3">[]</a>
+
+### Don't sell products I personaly have no faith<a id="sec-1-1-4" name="sec-1-1-4">[]</a>
 
 -   Advertising is only evil when it advertises evil things
 
