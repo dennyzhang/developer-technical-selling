@@ -8,7 +8,7 @@
 Github Repo: https://github.com/DennyZhang/developer-technical-selling
 - For missing points: File me [tickets](https://github.com/DennyZhang/developer-technical-selling/issues)
 
-Similar Projects: 
+Similar Projects:
 - Github: [[https://github.com/DennyZhang/developer-technical-selling][Do a better technical selling as a developer]]
 - Github: [[https://github.com/DennyZhang/linkedin-grow-influence][How To Improve Professional Influence In Linkedin]]
 - Github: [[https://github.com/DennyZhang/maintain-github-repos][Maintain Github Projects For Bigger Influence]]
@@ -31,17 +31,21 @@ Similar Projects:
 - Public visibility boosts word of mouth
 - If you want to get people not to do something, don't tell them that lots of their peers are doing it.
 - If something is built to show, it's built to grow
-*** Practical values 
+*** Practical values
 - Passing along useful things also strengthens social bonds.
-- Whether it seems like a fair price or not depends on your expectations 
+- Whether it seems like a fair price or not depends on your expectations
 *** Trigger
+#+BEGIN_EXAMPLE
+Market research often focuses on consumer's immediate reaction to an advertising message or campaign. That might be valuable in situations where the consumer is immediately offered a chance to buy the product. But in most cases, people hear an ad one day and then go to the store days or weeks later. If they're not triggered to think about it, how will they remember that ad when they're at the store?
+#+END_EXAMPLE
+
 - So by linking Kit Kat to coffee, Colleen created a frequent trigger to remind people of the brand.
-- Mars bars and Mars the planet are already naturally connected 
+- Mars bars and Mars the planet are already naturally connected
 - French music is a natural trigger for French wine
 - The last day of the workweek is a natural trigger for Rebecca Black's song "Friday"
 - Holidays are made for Michelob. is ineffective to. Weekends are made for Michelob.
 - Triggers are the foundation of word of mouth and contagiousness.
-- Social currency gets people talking. But triggers keep them talking. 
+- Social currency gets people talking. But triggers keep them talking.
 - Top of mind means tip of tongue
 ** Lesson learned
 *** Be very careful with self-promotion activities
