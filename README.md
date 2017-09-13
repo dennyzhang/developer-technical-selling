@@ -53,7 +53,7 @@
 <a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
 <a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
 
--   File me [tickets](<https://github.com/DennyZhang/developer-technical-selling/issues>) or star [this github repo](<https://github.com/DennyZhang/developer-technical-selling>)
+-   File me [tickets](<https://github.com/DennyZhang/developer-technical-selling/issues>) or star [the repo](<https://github.com/DennyZhang/developer-technical-selling>)
 
 Similar Projects:  
 
