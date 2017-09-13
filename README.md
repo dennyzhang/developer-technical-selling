@@ -49,11 +49,11 @@
 
 # Do a better technical selling as a developer<a id="sec-1" name="sec-1">[]</a>
 
-**Follow Denny**: in [LinkedIn](https://www.linkedin.com/in/dennyzhang001), [Github](https://github.com/DennyZhang) or [Blog](https://www.dennyzhang.com).  
+<a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
+<a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
+<a href="https://www.dennyzhang.com/slack"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
 
-Github Repo: <https://github.com/DennyZhang/developer-technical-selling>  
-
--   For missing points: File me [tickets](<https://github.com/DennyZhang/developer-technical-selling/issues>)
+-   File me [tickets](<https://github.com/DennyZhang/developer-technical-selling/issues>) or star [this github repo](<https://github.com/DennyZhang/developer-technical-selling>)
 
 Similar Projects:  
 
