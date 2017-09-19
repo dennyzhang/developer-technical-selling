@@ -4,21 +4,8 @@
 <ul>
 <li><a href="#sec-1">1. Do a better technical selling as a developer</a>
 <ul>
-<li><a href="#sec-1-1">1.1. Principle</a>
-<ul>
-<li><a href="#sec-1-1-1">1.1.1. Don't sell products I personaly have no faith</a></li>
-<li><a href="#sec-1-1-2">1.1.2. Build trust and frienship first, before trying to sell</a></li>
-<li><a href="#sec-1-1-3">1.1.3. Show, don’t tell.</a></li>
-<li><a href="#sec-1-1-4">1.1.4. Remarkability is the key. Nobody can or should sell garbage</a></li>
-</ul>
-</li>
-<li><a href="#sec-1-2">1.2. Lessons learned</a>
-<ul>
-<li><a href="#sec-1-2-1">1.2.1. Don’t forget the silent majority</a></li>
-<li><a href="#sec-1-2-2">1.2.2. The most powerful marketing is personal recommendation. And it usually happen offline</a></li>
-<li><a href="#sec-1-2-3">1.2.3. Be very careful with self-promotion activities</a></li>
-</ul>
-</li>
+<li><a href="#sec-1-1">1.1. Principle</a></li>
+<li><a href="#sec-1-2">1.2. Lessons learned</a></li>
 <li><a href="#sec-1-3">1.3. Concepts</a>
 <ul>
 <li><a href="#sec-1-3-1">1.3.1. Social Currency</a></li>
@@ -27,11 +14,7 @@
 <li><a href="#sec-1-3-4">1.3.4. Trigger</a></li>
 </ul>
 </li>
-<li><a href="#sec-1-4">1.4. Routine Tasks</a>
-<ul>
-<li><a href="#sec-1-4-1">1.4.1. Collect surprising facts</a></li>
-</ul>
-</li>
+<li><a href="#sec-1-4">1.4. Routine Tasks</a></li>
 <li><a href="#sec-1-5">1.5. Different Products To Sell</a>
 <ul>
 <li><a href="#sec-1-5-1">1.5.1. Each blog post is a product: journalism + advertising</a></li>
@@ -62,27 +45,19 @@
 
 ## Principle<a id="sec-1-1" name="sec-1-1"></a>
 
-### Don't sell products I personaly have no faith<a id="sec-1-1-1" name="sec-1-1-1"></a>
-
+-   Don't sell products I personaly have no faith
 -   Advertising is only evil when it advertises evil things
-
-### Build trust and frienship first, before trying to sell<a id="sec-1-1-2" name="sec-1-1-2"></a>
-
-### Show, don’t tell.<a id="sec-1-1-3" name="sec-1-1-3"></a>
-
-### Remarkability is the key. Nobody can or should sell garbage<a id="sec-1-1-4" name="sec-1-1-4"></a>
+-   Build trust and frienship first, before trying to sell
+-   Show, don’t tell.
+-   Remarkability is the key. Nobody can or should sell garbage
 
 ## Lessons learned<a id="sec-1-2" name="sec-1-2"></a>
 
-### Don’t forget the silent majority<a id="sec-1-2-1" name="sec-1-2-1"></a>
+-   Don’t forget the silent majority
+-   The most powerful marketing is personal recommendation. And it usually happen offline
+-   Be very careful with self-promotion activities.
 
-### The most powerful marketing is personal recommendation. And it usually happen offline<a id="sec-1-2-2" name="sec-1-2-2"></a>
-
-### Be very careful with self-promotion activities<a id="sec-1-2-3" name="sec-1-2-3"></a>
-
-Don't post your links everywhere. ****Stop it now!****  
-
-It won't work. And it will hurt your image. Make your products looks crappy.  
+Don't post your links everywhere. ****Stop it now****! It won't work. And it will hurt your image. Make your products looks crappy.  
 
 ## Concepts<a id="sec-1-3" name="sec-1-3"></a>
 
@@ -120,9 +95,8 @@ It won't work. And it will hurt your image. Make your products looks crappy.
 
 ## Routine Tasks<a id="sec-1-4" name="sec-1-4"></a>
 
-### Collect surprising facts<a id="sec-1-4-1" name="sec-1-4-1"></a>
-
--   Sample: average person spends two weeks over his/her lifetime waiting for traffic lights to change
+-   Collect surprising facts  
+    Sample: average person spends two weeks over his/her lifetime waiting for traffic lights to change
 
 ## Different Products To Sell<a id="sec-1-5" name="sec-1-5"></a>
 

@@ -16,18 +16,17 @@
 
 --------------------------------------------------------
 ** Principle
-*** Don't sell products I personaly have no faith
+- Don't sell products I personaly have no faith
 - Advertising is only evil when it advertises evil things
-*** Build trust and frienship first, before trying to sell
-*** Show, don’t tell.
-*** Remarkability is the key. Nobody can or should sell garbage
+- Build trust and frienship first, before trying to sell
+- Show, don’t tell.
+- Remarkability is the key. Nobody can or should sell garbage
 ** Lessons learned
-*** Don’t forget the silent majority
-*** The most powerful marketing is personal recommendation. And it usually happen offline
-*** Be very careful with self-promotion activities
-Don't post your links everywhere. **Stop it now!**
+- Don’t forget the silent majority
+- The most powerful marketing is personal recommendation. And it usually happen offline
+- Be very careful with self-promotion activities. 
 
-It won't work. And it will hurt your image. Make your products looks crappy.
+Don't post your links everywhere. **Stop it now**! It won't work. And it will hurt your image. Make your products looks crappy.
 ** Concepts
 *** Social Currency
 - Early adopters have social currency
@@ -56,8 +55,8 @@ Market research often focuses on consumer's immediate reaction to an advertising
 - Social currency gets people talking. But triggers keep them talking.
 - Top of mind means tip of tongue
 ** Routine Tasks
-*** Collect surprising facts
-- Sample: average person spends two weeks over his/her lifetime waiting for traffic lights to change
+- Collect surprising facts
+  Sample: average person spends two weeks over his/her lifetime waiting for traffic lights to change
 ** Different Products To Sell
 *** Each blog post is a product: journalism + advertising
 *** Product review/Sponsored posts
