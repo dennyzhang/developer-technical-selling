@@ -82,7 +82,8 @@ Don't post your links everywhere. ****Stop it now****! It won't work. And it wil
 
 ### Trigger<a id="sec-1-3-4" name="sec-1-3-4"></a>
 
-    Market research often focuses on consumer's immediate reaction to an advertising message or campaign. That might be valuable in situations where the consumer is immediately offered a chance to buy the product. But in most cases, people hear an ad one day and then go to the store days or weeks later. If they're not triggered to think about it, how will they remember that ad when they're at the store?
+Market research often focuses on consumer's immediate reaction to an advertising message or campaign.  
+That might be valuable in situations where the consumer is immediately offered a chance to buy the product. But in most cases, people hear an ad one day and then go to the store days or weeks later. If they're not triggered to think about it, how will they remember that ad when they're at the store?  
 
 -   So by linking Kit Kat to coffee, Colleen created a frequent trigger to remind people of the brand.
 -   Mars bars and Mars the planet are already naturally connected
