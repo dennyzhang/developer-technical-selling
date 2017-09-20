@@ -1,4 +1,4 @@
-#+TAGS: noexport(n)
+#+TAGS: noexport(n) Idea(i)
 #+OPTIONS: toc:3 \n:t ^:nil creator:nil d:nil
 #+AUTHOR: dennyzhang.com (contact@dennyzhang.com)
 #+SEQ_TODO: TODO HALF ASSIGN | DONE BYPASS DELEGATE CANCELED DEFERRED
@@ -56,8 +56,21 @@ That might be valuable in situations where the consumer is immediately offered a
 ** Routine Tasks
 - Collect surprising facts
   Sample: average person spends two weeks over his/her lifetime waiting for traffic lights to change
+** Principle In Chinese                                            :noexport:
+- [[https://github.com/easychen/howto-make-more-money][GitHub - easychen/howto-make-more-money: 程序员如何优雅的挣零花钱]]
+- [[http://www.jianshu.com/p/e58df5900ed2][第二季：程序员如何优雅的挣零花钱Ⅱ - 简书]]
 ** Different Products To Sell
 *** Each blog post is a product: journalism + advertising
 *** Product review/Sponsored posts
 *** Affiliate marketing: recommend good products and get commissions.
 *** Build your own information products
+** #  --8<-------------------------- separator ------------------------>8-- :noexport:
+** TODO [#A] Build and sell your own info products via subscription business model
+** TODO Info products: Scan github repo                                :Idea:
+** #  --8<-------------------------- separator ------------------------>8-- :noexport:
+** TODO Avoid load google adsense for mobile users
+https://stackoverflow.com/questions/28851031/how-to-prevent-browsers-downloading-google-adsense-ads-on-mobile-with-responsive
+https://stackoverflow.com/questions/22410370/remove-adsense-on-mobile
+** TODO Avoid load google adsense for Chinese users
+** TODO write ebooks: https://www.ansiblefordevops.com
+** TODO [#A] Target your offer in different segments
