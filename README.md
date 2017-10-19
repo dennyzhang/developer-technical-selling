@@ -33,8 +33,8 @@
 # Do a better technical selling as a developer<a id="sec-1" name="sec-1"></a>
 
 <a href="https://www.linkedin.com/in/dennyzhang001"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/linkedin.png" alt="linkedin" /></a>
-<a href="https://github.com/DennyZhang"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/github.png" alt="github" /></a>
-<a href="https://goo.gl/ozDDyL"><img src="https://www.dennyzhang.com/wp-content/uploads/sns/slack.png" alt="slack" /></a>
+<a href="https://github.com/DennyZhang"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/github.png" alt="github" /></a>
+<a href="https://goo.gl/ozDDyL"><img src="https://raw.githubusercontent.com/USDevOps/mywechat-slack-group/master/images/slack.png" alt="slack" /></a>
 <a href="https://github.com/DennyZhang?tab=followers"><img align="right" width="200" height="183" src="https://www.dennyzhang.com/wp-content/uploads/denny/watermark/github.png" /></a>
 
 -   File me [tickets](<https://github.com/DennyZhang/developer-technical-selling/issues>) or star [this github repo](<https://github.com/DennyZhang/developer-technical-selling>)
